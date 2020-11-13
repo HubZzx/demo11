@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/a/Desktop/jiaojie/资料/资料/合同-契约锁/sdk-java-3.1.4/sdk-java-3.1.4/sdk-java-3.1.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
